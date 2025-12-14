@@ -1,6 +1,6 @@
 # Nova Garage V1.0.0
 
-![NovaGarage](https://github.com/user-attachments/assets/8657b812-5af1-4621-b565-7e0cd13e3162")
+![NovaGarage](https://github.com/user-attachments/assets/8657b812-5af1-4621-b565-7e0cd13e3162)
 
 **Copyright © 2025 Artek0000**  
 Tous droits réservés – Appropriation et modification interdites
