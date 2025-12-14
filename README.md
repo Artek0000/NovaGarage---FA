@@ -14,7 +14,6 @@ Tous droits réservés – Appropriation et modification interdites
 - [Points de garage](#points-de-garage-📍)
 - [Installation](#installation-🛠️)
 - [Informations importantes](#informations-importantes-⚠️)
-- [Aperçu](#aperçu-🖼️)
 - [Support](#support-💬)
 
 ---
